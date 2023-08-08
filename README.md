@@ -37,7 +37,7 @@ conda create --name your_environment_name python=desired_python_version
 ```
 Example:
 ```
-conda create --name mae python=3.8
+conda create --name my_test_name python=3.8
 ```
 Note: Some projects may require a specific Python version.
 
