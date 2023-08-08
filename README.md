@@ -73,8 +73,7 @@ To ensure a clean Python installation, use Conda environments instead of modifyi
    ```
    python main.py
    ```
+   
+| ![linux](./imgs/linux-tux-2-logo-png-transparent.png) | ![anaconda](./imgs/miniconda_vs_anaconda.png) |
+|:-----------------------------:|:-----------------------------:|
 
-<p float="left">
-  <img src="./imgs/linux-tux-2-logo-png-transparent.png" width="50%" />
-  <img src="./imgs/miniconda_vs_anaconda.png" width="50%" /> 
-</p>
